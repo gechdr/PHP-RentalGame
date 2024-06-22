@@ -1,0 +1,50 @@
+.gradient-custom {
+	background: #6a11cb;
+
+	background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+	background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+}
+.split {
+	width: 80%;
+	height: 5px;
+	border: none;
+}
+
+.btnLogout {
+	width: 150px;
+	height: 50px;
+	border: none;
+	border-radius: 15px;
+	font-size: 1.5em;
+	color: white;
+}
+
+.font15em {
+	font-size: 1.5em;
+}
+.font2em {
+	font-size: 2em;
+}
+
+.border-lengkung {
+	border-radius: 20px;
+}
+
+.colorCustom {
+	color: #6a11cb;
+}
+
+.caseTable {
+	font-size: 2em;
+	color: white;
+}
+
+.btnLeave {
+	width: 200px;
+	height: 40px;
+	border: none;
+	border-radius: 15px;
+	font-size: 1.5em;
+	color: white;
+}

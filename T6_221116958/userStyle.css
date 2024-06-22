@@ -1,0 +1,56 @@
+.gradient-custom {
+	background: #6a11cb;
+
+	background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+	background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+}
+.split {
+	width: 80%;
+	height: 5px;
+	border: none;
+}
+
+.btnLogout {
+	width: 150px;
+	height: 50px;
+	border: none;
+	border-radius: 15px;
+	font-size: 1.5em;
+	color: white;
+}
+
+.font15em {
+	font-size: 1.5em;
+}
+.font2em {
+	font-size: 2em;
+}
+
+.border-lengkung {
+	border-radius: 20px;
+}
+
+.fontGreen {
+	color: green;
+}
+.fontRed {
+	color: red;
+}
+
+.btnJoin {
+	height: 60px;
+	width: 140px;
+	border-radius: 15px;
+	color: white;
+}
+
+.caseTable {
+	font-size: 1.5em;
+	color: white;
+	margin-left: 70px;
+}
+
+.filler {
+	height: 100px;
+}
